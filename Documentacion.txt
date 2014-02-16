@@ -1,0 +1,32 @@
+Sensor Pir economico Valencia:
+--------------------------------
+http://www.ebay.es/itm/HC-SR501-DETECTOR-MOVIMIENTO-PIR-Human-Motion-Sensor-Body-Pyroelectric-infrared-/221368345318?pt=LH_DefaultDomain_186&hash=item338a94e2e6&_uhb=1
+
+Proyecto parecido que usa sensor Pir y monoestable 555:
+--------------------------------------------------------
+http://www.tecbolivia.com/index.php/articulos-y-tutoriales-microcontroladores/8-luz-automatica-con-sensor-de-movimiento
+
+Circuitos temporizadores monoestables 555:
+-------------------------------------------
+
+http://www.taringa.net/posts/hazlo-tu-mismo/8770395/Electronica-Temporizador-de-eventos-cortos-con-555.html
+
+Amplificadores de sonido:
+--------------------------
+
+http://www.neoteo.com/electronica-basica-amplificador-de-audio/
+
+http://amplificadoresaudio.blogspot.com.ar/2012/02/amplificador-muy-economico-de-2-4w.html
+
+http://www.ladelec.com/practicas/circuitos-analogos/338-amplificador-de-audio-de-10-w-tipo-puente-con-lm380
+
+http://fermanlive.blogspot.com.es/2013/03/amplificador-de-audio-con-el-lm380.html
+
+http://www.proyectoelectronico.com/amplificadores-audio/amplificadores-baja-potencia-ic.html
+
+Si altavoz menos ohmios que ampli, peligro. Si tiene mas, sonará la mitad
+
+Altavoces en serie: se suma la impedancia
+Altavoces en paralelo: la mitad de uno de ellos (si son iguales)
+
+

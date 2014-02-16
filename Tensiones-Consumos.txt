@@ -1,0 +1,15 @@
+LM380: 10-22V / 1,3A
+NE555: 4,5-16V / 15mA
+MP3:  9-12V / 50mA max
+Pir: 4,5-20V / nada
+
+Necesidades componentes:
+------------------------
+Transformador: 200V / 12V 1A (menos voltios para compensar la caida de los diodos? mejor de 10)
+Puente diodos: 1A
+Condensador :  c=(5*I)/(f*Vmax) = 12,5mF? Le ponemos 2200uF electrolitico
+Regulador tension: 7812 - 1,5A
+fusible: 1,5 A
+Condensador salida regulador filtraje corriente : 1uF 
+
+
