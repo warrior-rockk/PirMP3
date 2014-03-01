@@ -1,0 +1,28 @@
+Lista de materiales para 1 PirMP3
+---------------------------------
+Estos son los componentes necesarios para montar el prototipo y asi vemos
+si funciona:
+
+1 Transformadores 220-12V 1.5A  (si no hay de 1.5A, de 1A como mínimo)
+1 Rectificadores Puente Diodos
+1 Condensadores Electroliticos 2200uF 16V
+1 Regulador Tension 7812
+1 Disipadores para el regulador
+1 Condensadores Cerámicos 100nF 100V (si no hay ceramico, tambien vale electrolítico)
+
+
+2 Resistencia 10K 0.5W
+2 Transistores BC548
+1 Resistencia 1K 0.5W
+2 Zocalo 8 pines 
+1 NE555
+2 Potenciometros Lineales 1M (no puede ser mas pequeño de 1Mega)
+1 Resistencia variable 2.2M 0.5W (si no tienen variable, una normal. Si no tienen de 2.2M, la más alta que tengan)
+4 Condensadores Ceramicos 150uF 25V (si no tienen ceramico, electrolitico tambien vale)
+
+1 Resistencia 560Ohm 0.5W
+1 Led Rojo
+
+1 LM380
+1 Resistencias 500K 0.5W
+
