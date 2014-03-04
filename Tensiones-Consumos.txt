@@ -11,5 +11,11 @@ Condensador :  c=(5*I)/(f*Vmax) = 12,5mF? Le ponemos 2200uF electrolitico
 Regulador tension: 7812 - 1,5A
 fusible: 1,5 A
 Condensador salida regulador filtraje corriente : 1uF 
+Resistencia para transistores: Sabemos la corriente que queremos que circule cuando sature ( o por lo menos la que necesita
+el actuador que queramos alimentar [el BC548 da un maximo de 500mA). En la hoja de caracteristicas esta el factor Beta del
+transistor que nos dice la intensidad que tiene que pasar en la base para que sature. En el BC548 esa beta es 200. Con lo cual,
+teniendo en cuenta que en el transistor hay una caida de tension de 0,6V , la resistencia para el transistor es la ley de ohm:
+R = (Vcc-0,6) / (Intensidad necesaria / Beta (200) ) Ejemplo Pir:
+R = (3,3-0,6) / (0,5 / 200) = 1080Ohm == 1KOhm
 
 
