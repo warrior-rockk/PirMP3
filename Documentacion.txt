@@ -24,6 +24,8 @@ http://fermanlive.blogspot.com.es/2013/03/amplificador-de-audio-con-el-lm380.htm
 
 http://www.proyectoelectronico.com/amplificadores-audio/amplificadores-baja-potencia-ic.html
 
+http://books.google.es/books?id=_g0xi3Til6AC&pg=PA220&lpg=PA220&dq=lm380+interferencia&source=bl&ots=Twz5_zUQ-7&sig=JIN6AVvAzDy7rTcnm6vsSJkANLo&hl=es&sa=X&ei=mVo0U6-wJ-Ha0QWg_YCoDg&ved=0CD8Q6AEwAg#v=onepage&q=lm380%20interferencia&f=false
+
 Si altavoz menos ohmios que ampli, peligro. Si tiene mas, sonará la mitad
 
 Altavoces en serie: se suma la impedancia
