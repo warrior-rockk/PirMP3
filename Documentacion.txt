@@ -31,4 +31,6 @@ Si altavoz menos ohmios que ampli, peligro. Si tiene mas, sonará la mitad
 Altavoces en serie: se suma la impedancia
 Altavoces en paralelo: la mitad de uno de ellos (si son iguales)
 
+Condensador 1000uF entre el +12 y tierra para quitar el ruido??
+
 
